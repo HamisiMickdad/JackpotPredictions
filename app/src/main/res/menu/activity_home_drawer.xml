@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dailytoptips"
+            android:title="Daily Top Tips" />
+    </group>
+    <item android:title="Jackpot Predictions">
+        <menu>
+        <item
+            android:id="@+id/nav_megajackpot"
+            android:title="SportPesa Mega Jackpot Tips" />
+        <item
+            android:id="@+id/nav_midweekjackpot"
+            android:title="SportPesa Midweek Jackpot" />
+        <item
+            android:id="@+id/nav_betinjackpot"
+            android:title="Betin Jackpot Tips" />
+        <item
+            android:id="@+id/nav_otherjackpots"
+            android:title="Other Sites Jackpot Tips" />
+        </menu>
+    </item>
+
+    <item android:title="Bonus Utilities">
+        <menu>
+            <item
+                android:id="@+id/nav_telegram"
+                android:title="Telegram Channel" />
+
+            <item
+                android:id="@+id/nav_livescore"
+                android:title="Live Scores"
+                />
+        </menu>
+    </item>
+
+
+</menu>

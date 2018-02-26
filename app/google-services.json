@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "628547197591",
+    "firebase_url": "https://jackpot-predictions-app.firebaseio.com",
+    "project_id": "jackpot-predictions-app",
+    "storage_bucket": "jackpot-predictions-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628547197591:android:a3792031b661a63f",
+        "android_client_info": {
+          "package_name": "com.hamsempire.jackpotpredictions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628547197591-29plq53e2n2mf8a1b62qmch29coe3sma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD12pue4Vf7oxDiIDTd2aI3HdOUgrs88ng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
